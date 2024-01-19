@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Languages:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+
 <!--
 **Teodor1379/Teodor1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
