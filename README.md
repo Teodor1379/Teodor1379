@@ -13,6 +13,7 @@ Languages:
 Technologies:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg" width="50" height="50" />
 </p>
 
