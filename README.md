@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there. 👋 Here is some information about me.
 
 Languages:
 
