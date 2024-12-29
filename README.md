@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋, I am <strong>Teodor Dishanski</strong></h1>
+<h1 align="center">Hi, 👋, I am <strong>Teodor</strong></h1>
 
 <h3 align="center">Student at Faculty of Mathematics and Informatics - Sofia University</h3>
 
