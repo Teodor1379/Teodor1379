@@ -1,6 +1,7 @@
 <h1 align="center">Hi, 👋, I am <strong>Teodor</strong></h1>
 
 <h3 align="center">Student at Faculty of Mathematics and Informatics - Sofia University</h3>
+<h3 align="center">Teaching Assistant at Faculty of Mathematics and Informatics - Sofia University</h3>
 
 ### Here is some information about me.
 
