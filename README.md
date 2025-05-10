@@ -5,7 +5,7 @@
 
 ### Here is some information about me.
 
-Languages:
+I have used these Languages:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50" />
@@ -16,11 +16,17 @@ Languages:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
 </p>
 
-Technologies:
+I have used these Technologies:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg" width="50" height="50" />
+</p>
+
+I have used these Tools:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" />
 </p>
 
 <!--
