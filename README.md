@@ -1,10 +1,11 @@
-<h1 align="center">Hi, 👋, I am <strong>Teodor Dishanski</strong></h1>
+<h1 align="center">Hi, 👋, I am <strong>Teodor</strong></h1>
 
 <h3 align="center">Student at Faculty of Mathematics and Informatics - Sofia University</h3>
+<h3 align="center">Teaching Assistant at Faculty of Mathematics and Informatics - Sofia University</h3>
 
 ### Here is some information about me.
 
-Languages:
+I have used these *Languages*:
 
 <p>
   <img src="Languages/Bash" width="50" height="50" />
@@ -12,14 +13,22 @@ Languages:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" height="50" />
 </p>
 
-Technologies:
+I have used these *Technologies*:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg" width="50" height="50" />
+</p>
+
+I have used these *Tools*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" />
 </p>
 
 <!--
