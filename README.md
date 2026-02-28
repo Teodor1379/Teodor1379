@@ -31,6 +31,12 @@ I have used these *Tools*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" />
 </p>
 
+I have used these *Operating Systems*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="50" height="50" />
+</p>
+
 <!--
 **Teodor1379/Teodor1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
