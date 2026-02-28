@@ -25,15 +25,10 @@ I have used these *Technologies*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg" width="50" height="50" />
 </p>
 
-I have used these *Tools*:
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" />
-</p>
-
 I have used these *Operating Systems*:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="50" height="50" />
 </p>
 
@@ -50,4 +45,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I have used these *Tools*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="50" height="50" />
+</p>
 -->
