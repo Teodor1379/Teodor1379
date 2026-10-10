@@ -19,6 +19,12 @@ I have used these *Languages*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 width="50" height="50" />
 </p>
 
+I am learning these *Languages*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"     width="50" height="50" />
+</p>
+
 <!--
 **Teodor1379/Teodor1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
