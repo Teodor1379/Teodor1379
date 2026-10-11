@@ -18,6 +18,7 @@ I have used these *Languages*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racker/racket-original.svg"       width="50" height="50" />
 </p>
 
 I am learning these *Languages*:
@@ -26,14 +27,17 @@ I am learning these *Languages*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"             width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"             width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"     width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rexx/rexx-original.svg"           width="50" height="50" />
 </p>
 
 I have used these *Tools*:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"  width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"        width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"      width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"        width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"              width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"            width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"              width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -43,6 +47,7 @@ I have used these *Instruments*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"                  width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"            width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"          width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg"                  width="50" height="50" />
 </p>
 
 I have worked with these *Operating Systems*:
