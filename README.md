@@ -13,6 +13,7 @@ I have used these *Languages*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"       width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"           width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       width="50" height="50" />
@@ -29,12 +30,21 @@ I have used these *Tools*:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"        width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"      width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"         width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"   width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg" width="50" height="50" />
+</p>
+
+I have worked with these *Operating Systems*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"       width="50" height="50" />
 </p>
 
 <!--
