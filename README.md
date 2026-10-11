@@ -50,6 +50,13 @@ I have used these *Instruments*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg"                  width="50" height="50" />
 </p>
 
+I like to work with these *Editors*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg"                width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"            width="50" height="50" />
+</p>
+
 I have worked with these *Operating Systems*:
 
 <p>
