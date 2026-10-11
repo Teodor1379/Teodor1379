@@ -2,6 +2,8 @@
 
 <h3 align="center">Student at Faculty of Mathematics and Informatics - Sofia University</h3>
 <h3 align="center">Teaching Assistant at Faculty of Mathematics and Informatics - Sofia University</h3>
+<h3 align="center">Bachelor in "Informatics", Magister in "Artificial Intelligence"</h3>
+
 
 ### Here is some information about me.
 
