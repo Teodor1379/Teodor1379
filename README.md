@@ -23,12 +23,15 @@ I have used these *Languages*:
 I am learning these *Languages*:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"             width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"             width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"     width="50" height="50" />
 </p>
 
 I have used these *Tools*:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"  width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"        width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"      width="50" height="50" />
 </p>
@@ -36,15 +39,28 @@ I have used these *Tools*:
 I have used these *Instruments*:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"         width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"   width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"                  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"            width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"          width="50" height="50" />
 </p>
 
 I have worked with these *Operating Systems*:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"       width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"       width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"           width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"   width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"       width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artixlinux/artixlinux-original.svg" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/almalinux/almalinux-original.svg"   width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"         width="50" height="50" />
+</p>
+
+I have a bit of experience with these:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg"     width="50" height="50" />
 </p>
 
 <!--
