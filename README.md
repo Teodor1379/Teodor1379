@@ -86,6 +86,12 @@ I have a bit of experience with these:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg"     width="50" height="50" />
 </p>
 
+I love to solve problems in these *Platforms*:
+
+<p>
+  <img src="http://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"          width="50" height="50" />
+</p>
+
 <!--
 **Teodor1379/Teodor1379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
