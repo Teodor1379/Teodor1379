@@ -54,6 +54,13 @@ I have used these *Instruments*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"                width="50" height="50" />
 </p>
 
+I love to write my documentation with these *Languages*:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"                  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                      width="50" height="50" />
+</p>
+
 I like to work with these *Editors*:
 
 <p>
