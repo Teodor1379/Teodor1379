@@ -51,6 +51,7 @@ I have used these *Instruments*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"            width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"          width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg"                  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"                width="50" height="50" />
 </p>
 
 I like to work with these *Editors*:
