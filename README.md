@@ -26,20 +26,14 @@ I have used these *Languages*:
 
 I am learning these *Languages*:
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"             width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"             width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"     width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rexx/rexx-original.svg"           width="50" height="50" />
-</p>
+APL, AWK, Clarity
 
 I have used these *Tools*:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg"              width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"              width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"            width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"  width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"              width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -56,15 +50,9 @@ I have used these *Instruments*:
 I love to write my documentation with these *Languages*:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"      width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"                  width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                      width="50" height="50" />
-</p>
-
-I like to work with these *Editors*:
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg"                width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"            width="50" height="50" />
 </p>
 
 I have worked with these *Operating Systems*:
