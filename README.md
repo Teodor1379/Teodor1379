@@ -36,7 +36,6 @@ I am learning these *Languages*:
 I have used these *Tools*:
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"        width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"              width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"            width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"  width="50" height="50" />
@@ -73,14 +72,11 @@ I have worked with these *Operating Systems*:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"       width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"           width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg"   width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"       width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artixlinux/artixlinux-original.svg" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/almalinux/almalinux-original.svg"   width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"         width="50" height="50" />
 </p>
 
-I have a bit of experience with these:
+I have a bit of experience with these *Architectures*:
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg"     width="50" height="50" />
