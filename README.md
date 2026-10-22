@@ -22,10 +22,6 @@ I have used these *Languages*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"         width="50" height="50" />
 </p>
 
-I am learning these *Languages*:
-
-APL, AWK, Clarity
-
 I have used these *Tools*:
 
 <p>
