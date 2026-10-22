@@ -62,12 +62,6 @@ I have worked with these *Operating Systems*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"         width="50" height="50" />
 </p>
 
-I have a bit of experience with these *Architectures*:
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aarch64/aarch64-original.svg"     width="50" height="50" />
-</p>
-
 I love to solve problems in these *Platforms*:
 
 <p>
