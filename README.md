@@ -14,14 +14,12 @@ I have used these *Languages*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                   width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"   width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"         width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"         width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"             width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"       width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-original.svg" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"         width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"         width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                   width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racket/racket-original.svg"         width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"         width="50" height="50" />
 </p>
 
 I am learning these *Languages*:
