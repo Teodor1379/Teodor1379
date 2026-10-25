@@ -37,8 +37,15 @@ I have used these *Instruments*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"                  width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"            width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"          width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij-idea/intellij-idea-original.svg"  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg"                width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"            width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm*pycharm-original.svg"              width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg"                  width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rubymine/rubymine-original.svg"            width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rustrover/rustrover-original.svg"          width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"                width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"            width="50" height="50" />
 </p>
 
 I love to write my documentation with these *Languages*:
