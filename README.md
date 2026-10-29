@@ -63,6 +63,7 @@ I have worked with these *Operating Systems*:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"           width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"       width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"         width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg"             width="50" height="50" />
 </p>
 
 I love to solve problems in these *Platforms*:
