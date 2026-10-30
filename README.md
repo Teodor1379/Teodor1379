@@ -74,10 +74,19 @@ I have worked with these *Operating Systems*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg"      	width="50" height="50" />
 </p>
 
+I have experience with these *LLM*:
+
+<p>
+	<img src="https://raw.githubusercontent.com/devicons/devicons/master/icons/claude/claude-original.svg"	width="50" height="50" />
+</p>
+
 I have experience with these *Agents*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg"	width="50" height="50" />>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg"			width="50" height="50" />
 </p>
 
 I love to solve problems in these *Platforms*:
