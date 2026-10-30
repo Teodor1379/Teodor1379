@@ -15,6 +15,7 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"				width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       width="50" height="50" />
@@ -29,6 +30,9 @@ I have used these *Tools*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"   	width="50" height="50" />
  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnu/gnu-original.svg"			width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -61,8 +65,10 @@ I like to write my documentation with these *Languages*:
 I have used this *Software*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bevyengine/bevyengine-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bevyengine/bevyengine-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gamemakerstudio/gamemakerstudio-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"						width="50" height="50" />
 </p>
 
 I have worked with these *Operating Systems*:
@@ -79,21 +85,27 @@ I have experience with these *LLM*:
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicons/master/icons/claude/claude-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicons/master/icons/gemini/gemini-oroginal.svg"	width="50" height="50" />
 </p>
 
 I have experience with these *Agents*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg"	width="50" height="50" />
 </p>
 
 I love to solve problems in these *Platforms*:
 
 <p>
-  	<img src="http://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitbook/gitbook-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"			width="50" height="50" />>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodespaces/githubcodespaces-original.svg"	width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"					width="50" height="50" />
 </p>
 
 <!--
