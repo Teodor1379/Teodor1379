@@ -18,7 +18,9 @@ I have used these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dyalog/dyalog-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       width="50" height="50" />
@@ -30,12 +32,19 @@ I have used these *Languages*:
 I have used these *Tools*:
 
 <p>
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg"		width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"   	width="50" height="50" />
- 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnu/gnu-original.svg"			width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg"							width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"   						width="50" height="50" />
+ 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnu/gnu-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitbook/gitbook-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodespaces/githubcodespaces-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitkraken/gitkraken-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg"						width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -114,10 +123,6 @@ I have experience with these *Agents*:
 I love to solve problems in these *Platforms*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitbook/gitbook-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"			width="50" height="50" />>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodespaces/githubcodespaces-original.svg"	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"					width="50" height="50" />
 </p>
 
