@@ -22,6 +22,8 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idris/idris-original.svg"			width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 width="50" height="50" />
