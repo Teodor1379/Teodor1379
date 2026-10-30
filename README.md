@@ -33,6 +33,7 @@ I have used these *Tools*:
 I have used these *Instruments*:
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aiassistant/aiassistant.svg"               width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"  width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"                  width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"            width="50" height="50" />
