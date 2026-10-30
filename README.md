@@ -57,6 +57,12 @@ I have used these *Instruments*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"           width="50" height="50" />
 </p>
 
+I have used these *Editors*:
+
+<p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg"	width="50" height="50" />
+</p>
+
 I like to write my documentation with these *Languages*:
 
 <p>
