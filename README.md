@@ -44,6 +44,9 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odin/odin-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencl/opencl-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postresql/postgresql-svg"				width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       	width="50" height="50" />
@@ -155,6 +158,7 @@ I have used this *Software*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npss/npss-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg"					width="50" height="50" />
 </p>
 
