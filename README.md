@@ -84,6 +84,7 @@ I have used these *Platforms*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hoppscotch/hoppscotch-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"			width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -104,6 +105,7 @@ I have used these *Instruments*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"               width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamcity/teamcity-original.svg"			width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"           width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"			width="50" height="50" />
 </p>
 
 I have used these *Editors*:
