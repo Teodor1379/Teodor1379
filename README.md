@@ -41,7 +41,9 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/luau/luau-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postresql/postgresql-svg"				width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       	width="50" height="50" />
@@ -71,7 +73,10 @@ I have used these *Tools*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"						width="50" height="50" />
-	<Img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metabase/metabase-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg"						width="50" height="50" />
 </p>
 
 I have used these *Platforms*:
@@ -87,6 +92,7 @@ I have used these *Platforms*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg"					width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -113,8 +119,11 @@ I have used these *Instruments*:
 I have used these *Editors*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helix/helix-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helix/helix-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"	width="50" height="50" />
 </p>
 
 I like to write my documentation with these *Languages*:
@@ -124,6 +133,7 @@ I like to write my documentation with these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" heigjt="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"            	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/novelwriter/novelwriter-original.svg"	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/textile/textile-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
@@ -141,8 +151,10 @@ I have used this *Software*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/love2d/love2d-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mapbox/mapbox-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npss/npss-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg"					width="50" height="50" />
 </p>
 
