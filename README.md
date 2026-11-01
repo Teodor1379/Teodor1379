@@ -67,6 +67,7 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vlang/vlang-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vyper/vyper-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yugabytedb/yugabytedb-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"					width="50" height="50" />
 </p>
 
@@ -133,6 +134,7 @@ I have used these *Instruments*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rustrover/rustrover-original.svg"         width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"               width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamcity/teamcity-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtrack/youtrack-original.svg"			width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"           width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"			width="50" height="50" />
 </p>
