@@ -81,6 +81,7 @@ I have used these *Platforms*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codecov/codecov-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hoppscotch/hoppscotch-original.svg"	width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
@@ -107,6 +108,7 @@ I have used these *Editors*:
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helix/helix-original.svg"	width="50" height="50" />
 </p>
 
 I like to write my documentation with these *Languages*:
