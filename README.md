@@ -63,6 +63,7 @@ I have used these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"       	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tigerbeetle/tigerbeetle-original.svg" width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"					width="50" height="50" />
 </p>
 
@@ -179,6 +180,7 @@ I have used this *Software*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shotgrid/shotgrid-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourceengine/sourceengine-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threedsmax/threedsmax-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg"					width="50" height="50" />
 </p>
 
@@ -215,6 +217,7 @@ I love to solve problems in these *Platforms*:
 
 <p>
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealogirhms-original.svg"			width="50" height="50" />
 </p>
 
 <!--
