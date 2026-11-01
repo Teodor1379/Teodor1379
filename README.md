@@ -54,6 +54,9 @@ I have used these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racket/racket-original.svg"       	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reach/reach-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocksdb/rocksdb-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"				width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"       	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"					width="50" height="50" />
@@ -83,6 +86,7 @@ I have used these *Tools*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metabase/metabase-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"							width="50" height="50" />
 </p>
 
 I have used these *Platforms*:
@@ -165,6 +169,7 @@ I have used this *Software*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoengine/photoengine-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/posytron/posytron-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg"					width="50" height="50" />
 </p>
 
