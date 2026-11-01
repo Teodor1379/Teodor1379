@@ -85,6 +85,7 @@ I have used these *Platforms*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hoppscotch/hoppscotch-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"			width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
