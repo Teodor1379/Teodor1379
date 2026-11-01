@@ -66,6 +66,7 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tigerbeetle/tigerbeetle-original.svg" width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vlang/vlang-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vyper/vyper-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"					width="50" height="50" />
 </p>
 
