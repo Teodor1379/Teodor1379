@@ -16,7 +16,6 @@ I have used these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" 	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg"			width="50" height="50" />
