@@ -72,17 +72,12 @@ I have used these *Platforms*:
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apify/apify-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bruno/bruno-original.svg" 			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeac/codeac-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codecov/codecov-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hoppscotch/hoppscotch-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"		width="50" height="50" />
 </p>
 
