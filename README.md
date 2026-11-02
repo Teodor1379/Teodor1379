@@ -155,9 +155,6 @@ I have worked with these *Operating Systems*:
 I have experience with these *LLM*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claude/claude-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gemini/gemini-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg"	width="50" height="50" />
 </p>
 
 I have experience with these *Agents*:
