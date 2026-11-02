@@ -61,19 +61,11 @@ I have used these *Tools*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnu/gnu-original.svg"								width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitbook/gitbook-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodespaces/githubcodespaces-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitkraken/gitkraken-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg"							width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metabase/metabase-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"							width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original.svg"							width="50" height="50" />
 </p>
 
 I have used these *Platforms*:
