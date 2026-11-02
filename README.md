@@ -118,8 +118,8 @@ I like to write my documentation with these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"            	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/novelwriter/novelwriter-original.svg"	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/novelwriter/novelwriter-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/textile/textile-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
 </p>
