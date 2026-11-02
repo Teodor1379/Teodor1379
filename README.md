@@ -8,43 +8,64 @@
 I have used these *Languages*:
 
 <p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aerospike-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"           	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                 	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cairo/cairo-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clairyt-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" 	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dyalog/dyalog-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/faunadb/faunadv-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg"			width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idris/idris-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jule/jule-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/luau/luau-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odin/odin-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencl/opencl-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgis/postgis-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postresql/postgresql-svg"				width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racket/racket-original.svg"       	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reach/reach-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocksdb/rocksdb-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spicedb/spicedb-original.svg"			width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"       	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tigerbeetle/tigerbeetle-original.svg" width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vlang/vlang-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vyper/vyper-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yugabytedb/yugabytedb-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"					width="50" height="50" />
 </p>
 
@@ -56,28 +77,41 @@ I have used these *Tools*:
  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg"								width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghidra/ghidra-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ghydra/ghydra-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"								width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gnu/gnu-original.svg"								width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitbook/gitbook-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcodespaces/githubcodespaces-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitkraken/gitkraken-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitpod/gitpod-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/memcached/memcached-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metabase/metabase-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/minitab/minitab-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original.svg"							width="50" height="50" />
 </p>
 
 I have used these *Platforms*:
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apify/apify-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bruno/bruno-original.svg" 			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeac/codeac-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codecov/codecov-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecolab/googlecolab-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hoppscotch/hoppscotch-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg"		width="50" height="50" />
 </p>
 
@@ -89,7 +123,7 @@ I have used these *Instruments*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"                 width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"           width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"         width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"           width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij-idea/intellij-idea-original.svg" width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg"               width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"           width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"             width="50" height="50" />
@@ -106,6 +140,9 @@ I have used these *Instruments*:
 I have used these *Editors*:
 
 <p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helix/helix-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"			width="50" height="50" />
@@ -116,10 +153,10 @@ I like to write my documentation with these *Languages*:
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asciidoc/asciidoc-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" heigjt="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"            	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/novelwriter/novelwriter-original.svg"	width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/textile/textile-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
 </p>
