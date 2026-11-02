@@ -101,6 +101,7 @@ I have used these *Instruments*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtrack/youtrack-original.svg"			width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"           width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junie/junie-original.svg"					width="50" height="50" />
 </p>
 
 I have used these *Editors*:
@@ -160,7 +161,7 @@ I have experience with these *LLM*:
 I have experience with these *Agents*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junie/junie-original.svg"					width="50" height="50" />
+	
 </p>
 
 I love to solve problems in these *Platforms*:
