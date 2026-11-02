@@ -8,7 +8,7 @@
 I have used these *Languages*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aerospike/aerospike-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aerospike/aerospike-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"           	width="50" height="50" />
@@ -47,7 +47,7 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencl/opencl-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgis/postgis-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 	width="50" height="50" />
