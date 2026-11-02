@@ -8,13 +8,15 @@
 I have used these *Languages*:
 
 <p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aerospike-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"           	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                 	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cairo/cairo-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clairyt-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" 	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg"		width="50" height="50" />
