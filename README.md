@@ -160,11 +160,6 @@ I have experience with these *LLM*:
 I have experience with these *Agents*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junie/junie-original.svg"					width="50" height="50" />
 </p>
 
