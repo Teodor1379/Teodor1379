@@ -150,11 +150,6 @@ I have used this *Software*:
 I have worked with these *Operating Systems*:
 
 <p>
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"    	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg"      	width="50" height="50" />
 </p>
 
 I have experience with these *LLM*:
