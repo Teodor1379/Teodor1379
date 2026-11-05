@@ -67,6 +67,7 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reach/reach-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocksdb/rocksdb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rqlite/rqlite-original.svg"									width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"										width="50" height="50" />
