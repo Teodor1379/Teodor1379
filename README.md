@@ -81,6 +81,7 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"								width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"       							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/systemverilog/systemverilog-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tigerbeetle/tigerbeetle-original.svg" 						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"	width="50" height="50" />
