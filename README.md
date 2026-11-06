@@ -66,41 +66,6 @@ I like to write my documentation with these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
 </p>
 
-I have used this *Software*:
-
-<p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansys/ansys-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bevyengine/bevyengine-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fusion/fusion-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gamemakerstudio/gamemakerstudio-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/love2d/love2d-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mapbox/mapbox-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/monokit/monokit-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npss/npss-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photonengine/photonengine-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/positron/positron-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/radstudio/radstudio-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/renpy/renpy-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shotgrid/shotgrid-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourceengine/sourceengine-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threedsmax/threedsmax-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-origianal.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vulkan/vulkan-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"						width="50" height="50" />
-</p>
-
 I have worked with these *Operating Systems*:
 
 <p>
