@@ -58,8 +58,6 @@ I have used these *Tools*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysqlworkbench/mysqlworkbench-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg"						width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ravendb/ravendb-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stata/stata-original.svg"							width="50" height="50" />
