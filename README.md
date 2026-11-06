@@ -66,34 +66,6 @@ I like to write my documentation with these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
 </p>
 
-I have worked with these *Operating Systems*:
-
-<p>
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"    	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"  	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg"      	width="50" height="50" />
-</p>
-
-I have experience with these *LLM*:
-
-<p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claude/claude-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gemini/gemini-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg"	width="50" height="50" />
-</p>
-
-I have experience with these *Agents*:
-
-<p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antigravity/antigravity-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/claudecode/claudecode-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg"					width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg"	width="50" height="50" />
-</p>
-
 I love to solve problems in these *Platforms*:
 
 <p>
