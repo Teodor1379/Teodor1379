@@ -13,13 +13,11 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"								width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg"									width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     							width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racket/racket-original.svg"       							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"										width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"	width="50" height="50" />
 </p>
 
 I like to write my documentation with these *Languages*:
