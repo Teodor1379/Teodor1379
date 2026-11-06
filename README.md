@@ -8,13 +8,92 @@
 I have used these *Languages*:
 
 <p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aerospike/aerospike-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apl/apl-original.svg"											width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/awk/awk-original.svg"											width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"           							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ballerina/ballerina-original.svg"								width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                 							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"								width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"									width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cairo/cairo-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ceylon/ceylon-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clarity/clarity-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg" 							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/couchbase/couchbase-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cosmosdb/cosmosdb-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/crystal/crystal-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dyalog/dyalog-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/faunadb/faunadb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebird/firebird-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fish/fish-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gleam/gleam-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"											width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg"									width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     							width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racket/racket-original.svg"       							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/idris/idris-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jule/jule-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"											width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/luau/luau-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nim/nim-original.svg"											width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/odin/odin-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencl/opencl-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"											width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgis/postgis-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/processing/processing-original.svg"							width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prolog/prolog-original.svg"       							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       							width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 							width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/racket/racket-original.svg"       							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reach/reach-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/realm/realm-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rocksdb/rocksdb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rqlite/rqlite-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spicedb/spicedb-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg"								width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"       							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/surrealdb/surrealdb-original.svg"								width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/systemverilog/systemverilog-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tigerbeetle/tigerbeetle-original.svg" 						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vala/vala-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vlang/vlang-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vyper/vyper-original.svg"										width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg"									width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yugabytedb/yugabytedb-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"											width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zsh/zsh-original.svg"											width="50" height="50" />
 </p>
 
 I have used these *Tools*:
@@ -124,7 +203,12 @@ I like to write my documentation with these *Languages*:
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asciidoc/asciidoc-original.svg"		width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"            	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/novelwriter/novelwriter-original.svg"	width="50" height="50" />
+  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/textile/textile-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
 </p>
 
@@ -195,6 +279,7 @@ I love to solve problems in these *Platforms*:
 
 <p>
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg"			width="50" height="50" />
 </p>
 
 <!--
