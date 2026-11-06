@@ -33,6 +33,7 @@ I have used these *Languages*:
 I have used these *Tools*:
 
 <p>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apify/apify-original.svg"							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bazel/bazel-original.svg"							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg"   						width="50" height="50" />
  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 						width="50" height="50" />
@@ -42,16 +43,9 @@ I have used these *Tools*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"						width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg"							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg"						width="50" height="50" />
-</p>
-
-I have used these *Platforms*:
-
-<p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apify/apify-original.svg"				width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg"			width="50" height="50" />
 </p>
 
 I have used these *Instruments*:
