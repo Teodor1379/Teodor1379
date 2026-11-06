@@ -11,14 +11,8 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"           							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"                 							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"								width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/carbon/carbon-original.svg"       							width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dyalog/dyalog-original.svg"									width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg"								width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fortran/fortran-original.svg"									width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"											width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"     							width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg"										width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-original.svg"							width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"       							width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"                 							width="50" height="50" />
@@ -26,19 +20,13 @@ I have used these *Languages*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"										width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wolfram/wolfram-original.svg"									width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg"											width="50" height="50" />
 </p>
 
 I like to write my documentation with these *Languages*:
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/asciidoc/asciidoc-original.svg"		width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"            	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/textile/textile-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
 </p>
 
