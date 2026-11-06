@@ -50,13 +50,8 @@ I have used these *Tools*:
 I have used these *Editors*:
 
 <p>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helix/helix-original.svg"		width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-original.svg"		width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"	width="50" height="50" />
 </p>
 
 I like to write my documentation with these *Languages*:
@@ -66,7 +61,6 @@ I like to write my documentation with these *Languages*:
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/readthedocs/readthedocs-original.svg"	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"		width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"            	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/novelwriter/novelwriter-original.svg"	width="50" height="50" />
   	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tex/tex-original.svg"                	width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/textile/textile-original.svg"			width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typst/typst-original.svg"				width="50" height="50" />
