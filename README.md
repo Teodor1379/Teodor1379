@@ -51,23 +51,37 @@ I have used these *Tools*:
 I have used these *Instruments*:
 
 <p>
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aiassistant/aiassistant-original.svg"    	width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"                 width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"           width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"         width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"           width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg"               width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"           width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"             width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg"                 width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rubymine/rubymine-original.svg"           width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rustrover/rustrover-original.svg"         width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"               width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamcity/teamcity-original.svg"			width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtrack/youtrack-original.svg"			width="50" height="50" />
-  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"           width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aiassistant/aiassistant-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"		width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appcode/appcode-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aqua/aqua-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codecanvas/codecanvas-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datalore/datalore-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dataspell/dataspell-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fleet/fleet-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gateway/gateway-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grazie/grazie-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junie/junie-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kineto/kineto-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mellum/mellum-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mps/mps-original.svg"							width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rubymine/rubymine-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rustrover/rustrover-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/space/space-original.svg"						width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/teamcity/teamcity-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/toolbox/toolbox-original.svg"					width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/writerside/writerside-original.svg"			width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtrack/youtrack-original.svg"				width="50" height="50" />
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"				width="50" height="50" />
 </p>
 
 I have used these *Editors*:
@@ -156,7 +170,6 @@ I have experience with these *Agents*:
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codex/codex-original.svg"					width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cursor/cursor-original.svg"				width="50" height="50" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubcopilot/githubcopilot-original.svg"	width="50" height="50" />
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junie/junie-original.svg"					width="50" height="50" />
 </p>
 
 I love to solve problems in these *Platforms*:
